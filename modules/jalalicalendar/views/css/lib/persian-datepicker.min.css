@@ -1,0 +1,16 @@
+/*
+Placeholder for persian-datepicker.min.css
+Please download the actual library content from:
+https://github.com/babakhani/persian-datepicker/releases
+and replace this placeholder.
+Expected version: 1.2.0 (or latest)
+*/
+body::before {
+    content: "persian-datepicker.min.css not loaded - using placeholder";
+    display: block;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    background-color: yellow;
+}
